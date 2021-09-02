@@ -3,6 +3,7 @@
 <h2>✨ Tecnologias Esse projeto foi desenvolvido com as seguintes tecnologias:</h2>
 
 <h3>React JavaScript Styled-Components - Axios</h3>
+<p> Acesso ao site: https://buscagit.netlify.app/ </p>
 
 💻 Projeto é busca de perfil do GitHUb atráves da API, onde mostra os seguidores, usuários que ele segue entre outras informações
 
